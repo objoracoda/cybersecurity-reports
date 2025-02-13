@@ -1,0 +1,21 @@
+Victim:
+
+IP: 10.2.8.101
+Hostname: DESKTOP-MGVG60Z.ascolimited.com
+MAC: Source: 00:12:79:41:c2:aa
+Account Name: bill.cook
+
+IOCs:
+
+IP:
+1) Source Address: tonmatdoanminh.com (45.124.85.55)
+2) Destination Address: satursed.com (213.5.229.12)
+    Malware doc file - https://key.xn--nvigators-key-if2g.com/ktt/cmd/logon0208_54741869750132.doc
+3) Destination Address: elb097307-934924932.us-east-1.elb.amazonaws.com (54.235.147.252)
+4) Destination Address: undefined.hostname.localhost (198.211.10.238) 
+    [Full request URI: http://198.211.10.238:8080/submit.php?id=3275377518]
+
+
+Hash:
+
+Sha 256 doc file: 3a5648f7de99c4f87331c36983fc8adcd667743569a19c8dafdd5e8a33de154d
