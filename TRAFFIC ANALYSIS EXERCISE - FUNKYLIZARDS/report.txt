@@ -1,0 +1,22 @@
+
+Victim:
+
+IP: 10.8.19.101
+Hostname: DESKTOP-M1TFHB6.local
+MAC: 20:e5:2a:b6:93:f1
+Account Name: monica.steele
+
+IOCs:
+
+IP:
+1) 185.244.41.29 - [Full request URI: http://185.244.41.29/ooiwy.pdf] User-Agent curl (No 2127)
+2) 46.99.175.149 - Post infected activity https
+3) 182.253.210.130 - Post infected activity https
+4) 103.148.41.195 - POST /rob124/DESKTOP-M1TFHB6_W10019043.0CB9C3AE3FA9B1267DFC20141CDE9D84/90/
+
+
+
+Hash:
+
+SHA 256 ooiwy.pdf - f25a780095730701efac67e9d5b84bc289afea56d96d8aff8a44af69ae606404
+ooiwy.pdf: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
