@@ -1,0 +1,21 @@
+
+Victim:
+
+IP: 10.1.21.101
+Hostname: DESKTOP-NB72TZA
+MAC: 00:60:67:d3:47:8b
+Account Name: orlando.mccoy
+
+IOCs:
+
+IP:
+1) 209.141.51.196 - [Full request URI: http://209.141.51.196/files/1.bin] (1308 packet)
+2) 185.186.244.130 - GET /postfix/lNKei99Bpy96_2B7o/XUInVMY8McmJ/9sAl7w5MpPR/x6L77amS0_2B5E/Yw11Iv0RVB_2FSRyyrCtD/qdsRWw9YSie3vXJi/yB1hLcCUl_2BwDD/Q5ZjaojZpVvUHSB_2B/c1Hab9yCh/pIiQ5pQOAIdtUIgfaIJ_/2BXQeX6NrGY3EOUr08s/BSTZLGNsO3XC53UfdTW5nl/IJ2CoHs4iHpEX/ZSk1pM7K/dXbSy17xVgsxT_2FdudsgpS/2N2Xnbq2P_/2F8B8Oi_2BangB657/rYHeE5Iw/g.yml (3125 packet)
+2) 162.0.224.165 - grab32.rar (3474)
+4)  193.239.84.250 - something like brute force TLS (3685 starting packet)
+5) 84.252.95.102 - something like brute force TLS (starting packet (6631)
+
+
+
+Hash:
+SHA256 1.bin - 236491cfe870f6b374d80e427ef8f8bfbf24f50d4029128b001d95c8c90845cb  
