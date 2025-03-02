@@ -1,0 +1,24 @@
+Victim:
+
+IP: 10.1.17.215
+Hostname: DESKTOP-L8C5GSJ
+MAC: 00:d0:b7:26:4a:74
+Account Name: shutchenson
+
+IOCs:
+
+IP:
+1) 5.252.153.241 - 
+GET /api/file/get-file/264872 (frame 5033)
+GET /api/file/get-file/29842.ps1 (frame 5063)
+GET 5.252.153.241/1517096937 (frame 33354)
+
+2) 45.125.66.32 - C2 start with 19303 frame
+3) 45.125.66.252 - C2 start with 23421 frame
+
+
+Hash:
+SHA256 264872 - c74123dbccded43fda61651e102750b041d4c3af6fda88cd6436f9276653e103
+SHA256 29842.ps1 - b8ce40900788ea26b9e4c9af7efab533e8d39ed1370da09b93fcf72a16750ded
+SHA256 1517096937 - d63f0163a727b8bc2abe6d35b56468c5ac048b15c63c3faeba1dca054c3704bc
+
